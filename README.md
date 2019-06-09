@@ -1,1 +1,0 @@
-# Elastic wiki community Git
